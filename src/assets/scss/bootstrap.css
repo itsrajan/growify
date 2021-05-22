@@ -9,7 +9,7 @@
 @import url(all/icons/material-design-iconic-font/css/materialdesignicons.min.css);
 
 .topbar {
-    box-shadow: 1px 0px 7px rgba(0, 0, 0, 0.05);
+    box-shadow: 1px 0px 7px rgba(0, 0, 0, 0.05); 
     -webkit-box-shadow: 1px 0px 7px rgba(0, 0, 0, 0.05);
     -o-box-shadow: 1px 0px 7px rgba(0, 0, 0, 0.05);
     -moz-box-shadow: 1px 0px 7px rgba(0, 0, 0, 0.05);
