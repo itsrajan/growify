@@ -48,7 +48,7 @@ const Graph = () => {
                     </div>
                     <div className="ml-auto d-flex align-items-center">
                         <ul className="list-inline font-12 dl mr-3 mb-0">
-                            <h4><u><a href="#/maintenance">Advanced Analytics</a></u></h4>
+                            <h4><u><a target="_blank" href="https://share.streamlit.io/getgrowify/ml-app/app.py">Explore ML Model</a></u></h4>
                         </ul>
                     </div>
                 </div>
