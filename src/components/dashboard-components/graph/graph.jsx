@@ -20,7 +20,7 @@ let lineData = {
         pointBackgroundColor: 'rgb(94,114,228)',
         data: [10.0, 1.5, 6, 1.1, 2.5, 9, 1.8, 2.4]
     }, {
-        label: 'Soil Thing',
+        label: 'Soil Moisture',
         borderWidth: 1,
         backgroundColor: 'rgba(79,195,247,.1)',
         borderColor: 'rgb(79,195,247)',
@@ -28,7 +28,7 @@ let lineData = {
         pointBackgroundColor: 'rgb(79,195,247)',
         data: [0, 8, 1.1, 2.2, 8, 1.0, 5, 2.1]
     },  {
-        label: 'Rice',
+        label: 'Temperature',
         borderWidth: 1,
         backgroundColor: 'rgba(179,91,245,.1)',
         borderColor: 'rgb(94,114,228)',
