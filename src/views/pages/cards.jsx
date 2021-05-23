@@ -40,7 +40,7 @@ const Cards = () => {
                         <CardBody>
                             <CardTitle>Card title</CardTitle>
                             <CardSubtitle>Card subtitle</CardSubtitle>
-                            <CardText>Some quick example text to build on the card title and make up the bulk of the cards content.</CardText>
+                            <CardText>Post Content</CardText>
                             <Button>Button</Button>
                         </CardBody>
                     </Card>
@@ -51,7 +51,7 @@ const Cards = () => {
                         <CardBody>
                             <CardTitle>Card title</CardTitle>
                             <CardSubtitle>Card subtitle</CardSubtitle>
-                            <CardText>Some quick example text to build on the card title and make up the bulk of the cards content.</CardText>
+                            <CardText>Post Content</CardText>
                             <Button>Button</Button>
                         </CardBody>
                     </Card>
@@ -62,7 +62,7 @@ const Cards = () => {
                         <CardBody>
                             <CardTitle>Card title</CardTitle>
                             <CardSubtitle>Card subtitle</CardSubtitle>
-                            <CardText>Some quick example text to build on the card title and make up the bulk of the cards content.</CardText>
+                            <CardText>Post Content</CardText>
                             <Button>Button</Button>
                         </CardBody>
                     </Card>
@@ -73,7 +73,7 @@ const Cards = () => {
                         <CardBody>
                             <CardTitle>Card title</CardTitle>
                             <CardSubtitle>Card subtitle</CardSubtitle>
-                            <CardText>Some quick example text to build on the card title and make up the bulk of the cards content.</CardText>
+                            <CardText>Post Content</CardText>
                             <Button>Button</Button>
                         </CardBody>
                     </Card>
@@ -86,7 +86,7 @@ const Cards = () => {
                         <CardBody>
                             <CardTitle>Card title</CardTitle>
                             <CardSubtitle>Card subtitle</CardSubtitle>
-                            <CardText>Some quick example text to build on the card title and make up the bulk of the cards content.</CardText>
+                            <CardText>Post Content.</CardText>
                             <Button>Button</Button>
                         </CardBody>
                     </Card>
@@ -97,7 +97,7 @@ const Cards = () => {
                         <CardBody>
                             <CardTitle>Card title</CardTitle>
                             <CardSubtitle>Card subtitle</CardSubtitle>
-                            <CardText>Some quick example text to build on the card title and make up the bulk of the cards content.</CardText>
+                            <CardText>Post Content</CardText>
                             <Button>Button</Button>
                         </CardBody>
                     </Card>
@@ -108,7 +108,7 @@ const Cards = () => {
                         <CardBody>
                             <CardTitle>Card title</CardTitle>
                             <CardSubtitle>Card subtitle</CardSubtitle>
-                            <CardText>Some quick example text to build on the card title and make up the bulk of the cards content.</CardText>
+                            <CardText>Post Content</CardText>
                             <Button>Button</Button>
                         </CardBody>
                     </Card>
@@ -119,7 +119,7 @@ const Cards = () => {
                         <CardBody>
                             <CardTitle>Card title</CardTitle>
                             <CardSubtitle>Card subtitle</CardSubtitle>
-                            <CardText>Some quick example text to build on the card title and make up the bulk of the cards content.</CardText>
+                            <CardText>Post Content</CardText>
                             <Button>Button</Button>
                         </CardBody>
                     </Card>
