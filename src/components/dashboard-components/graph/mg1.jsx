@@ -32,7 +32,7 @@ const MG1 = () => {
                     </div>
                     <div className="ml-auto d-flex align-items-center">
                         <ul className="list-inline font-12 dl mr-3 mb-0">
-                            <h4><u><a href="#/maintenance">ML Model</a></u></h4>
+                            <h4><u><a target="_blank" href="https://share.streamlit.io/getgrowify/ml-app/app.py">ML Model</a></u></h4>
                         </ul>
                     </div>
                 </div>
