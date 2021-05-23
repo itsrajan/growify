@@ -19,7 +19,7 @@ const Explore = () => {
                     <CardBody>
                             <CardTitle style={{fontSize: '130%'}}>EXPLORE OUR ML MODEL</CardTitle>
                         <CardSubtitle>How do we get these numbers?</CardSubtitle>
-                       <Button>Take Me There!</Button>
+                       <Button target="_blank" href="https://share.streamlit.io/getgrowify/ml-app/app.py">Take Me There!</Button>
                         </CardBody>
                     
                         <CardImg top width="100%" src={"https://p.bigstockphoto.com/GeFvQkBbSLaMdpKXF1Zv_bigstock-Aerial-View-Of-Blue-Lakes-And--227291596.jpg"} />
