@@ -23,9 +23,9 @@ const Test = () => {
                 <thead>
     <tr className="border-0">
     <th className="border-0">Team Lead</th>
-        <th className="border-0">Project</th>
-        <th className="border-0">Project</th>
-        <th className="border-0">Project</th>
+        <th className="border-0">Status</th>
+        <th className="border-0">Age</th>
+        <th className="border-0">$EED</th>
     </tr>
 </thead>
 <tbody>
