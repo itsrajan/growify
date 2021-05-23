@@ -41,6 +41,18 @@ const Test = () => {
         <td>13</td>
         <td className="blue-grey-text  text-darken-4 font-medium">Value Coin</td>
     </tr>
+<tr>
+        <td>
+            <div className="d-flex no-block align-items-center">
+                <div className="">
+                    <h5 className="mb-0 font-16 font-medium">John Doe</h5><span>50++</span>
+                </div>
+            </div>
+        </td>
+        <td>Follows you</td>
+        <td>13</td>
+        <td className="blue-grey-text  text-darken-4 font-medium">Value Coin</td>
+    </tr>
     <tr>
         <td>
             <div className="d-flex no-block align-items-center">
